@@ -1,0 +1,6 @@
+#define magX 312
+#define magY 837
+#define magZ 588
+#define magx -1039
+#define magy -640
+#define magz -672
